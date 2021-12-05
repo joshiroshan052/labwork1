@@ -4,4 +4,3 @@ num = int(input("Enter a number: "))
 hour = num // 60
 minutes = num % 60
 print(hour, minutes)
-
